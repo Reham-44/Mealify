@@ -68,16 +68,4 @@ Or simply drag `index.html` into any browser window.
 
 ---
 
-## 📬 Contact
-
-Have questions or feedback? Reach out via the [GitHub Issues](https://github.com/Reham-44/Mealify/issues) tab.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Made with ❤️ by <a href="https://github.com/Reham-44">Reham</a></p>
+<p align="center">Made by <a href="https://github.com/Reham-44">Reham Abdelrahman</a></p>
